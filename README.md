@@ -42,10 +42,4 @@ The chatbot is built with:
 * The specific LLM used (e.g., "llama3.2") is hardcoded in the notebook and should be changed according to your setup.
 * Error handling and more robust input validation could be added to improve the application.
 
-## Author
-
-\[Your Name]
-
-## License
-
-\[Choose a license, e.g., MIT License]
+ 
